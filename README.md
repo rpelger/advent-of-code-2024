@@ -18,3 +18,4 @@ $ elixir day1/puzzle.exs
 | Puzzle | Solved? | Source |
 |--------|:-------:|--------|
 | [Day 1](https://adventofcode.com/2024/day/1) | ✅ | [`day1/puzzle.exs`](day1/puzzle.exs) | 
+| [Day 2](https://adventofcode.com/2024/day/2) | ✅ | [`day2/puzzle.exs`](day2/puzzle.exs) | 
